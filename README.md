@@ -6,3 +6,5 @@ Build lightning fast ⚡️ dashboards with this template.
 
 - Framework: [React Router v7](https://reactrouter.com/)
 - Authentication: [Clerk](https://clerk.com/)
+
+Deployed to [Cloudflare Workers](https://developers.cloudflare.com/workers/)
