@@ -1,6 +1,6 @@
-# Kaizen (改善) - Landing Page Template
+# Kaizen (改善) - Dashboard Template
 
-Build lightning fast ⚡️ landing pages with this template.
+Build lightning fast ⚡️ dashboards with this template.
 
 ## Tech
 
